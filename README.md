@@ -1,1 +1,2 @@
 # blinkit-Data-Analysis-Using-Sql
+This repository focuses on performing data analysis on Blinkit (formerly Grofers) data using SQL.By applying various SQL techniques such as filtering, aggregation, JOINs this analysis provides insights that can optimize operational efficiency, improve customer satisfaction, and inform strategic decisions. The goal is to demonstrate how SQL can be used to process and derive actionable insights from real-world e-commerce data, offering valuable perspectives on Blinkit’s business operations.
